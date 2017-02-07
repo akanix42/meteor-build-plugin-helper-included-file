@@ -1,0 +1,17 @@
+{
+  "name": "meteor-build-plugin-helper-included-file",
+  "version": "0.0.2",
+  "author": "Nathan Reid <nathan-code@nathantreid.com",
+  "license": "ISC",
+  "main": "dist/included-file.js",
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-env": "^1.1.8",
+    "gulp": "^3.9.1",
+    "gulp-build-babel-standard": "^0.0.2"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.10.1",
+    "sha1": "^1.1.1"
+  }
+}
